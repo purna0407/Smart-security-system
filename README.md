@@ -58,7 +58,6 @@ If any person other than Sameer or Purna appears in front of the camera, the mod
 4. **Image processing techniques:**
    - Histogram Equalization
    - Edge Detection
-   - Thresholding
    - median filter
    - highpass filter
    - sobel filter
