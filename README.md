@@ -14,12 +14,13 @@ This Flask application streams video from a webcam and performs real-time object
 ---
 
 ## **Note Before Run**
-1. Download the weights file from the best.pt file
-2. Run the application from the terminal only.
-3. **Before every run:**
+1. Train the model with images of your choice in google collab , to get proper weights which is used to classify the intruder in further steps
+2. Save the weights as best (3).pt and replace the existing file 
+3. Run the application from the terminal only.
+4. **Before every run:**
    - Delete the `runs` folder (if it exists) from the directory where the project files are located.
    - Delete all folders ending with `_images` in the same directory to avoid browser caching.
-4. Ensure the directory contains only the following files and folders:
+5. Ensure the directory contains only the following files and folders:
    - `app.py`
    - `iptechniques.py`
    - `best (3).pt`
