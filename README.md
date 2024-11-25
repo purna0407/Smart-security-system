@@ -14,7 +14,7 @@ This Flask application streams video from a webcam and performs real-time object
 ---
 
 ## **Note Before Run**
-1. Download the weights file from the Google Drive link: [Click here to download](https://drive.google.com/file/d/1KJqIL7Za1daESKxrADMK_knqfw7pEdCO/view?usp=share_link).
+1. Download the weights file from the best.pt file
 2. Run the application from the terminal only.
 3. **Before every run:**
    - Delete the `runs` folder (if it exists) from the directory where the project files are located.
