@@ -14,7 +14,7 @@ This Flask application streams video from a webcam and performs real-time object
 ---
 
 ## **Note Before Run**
-1. Train the model with images of your choice in google collab , to get proper weights which is used to classify the intruder in further steps
+1. Train the model with images of your choice in google colab , to get proper weights which is used to classify the intruder in further steps
 2. Save the weights as best (3).pt and replace the existing file 
 3. Run the application from the terminal only.
 4. **Before every run:**
