@@ -58,15 +58,18 @@ If any person other than Sameer or Purna appears in front of the camera, the mod
 4. **Image processing techniques:**
    - Histogram Equalization
    - Edge Detection
-   - Thresholding
+   - median filter
+   - highpass filter
+   - sobel filter
+   - unsharp masking
 
 ---
 
 ## **Authors**
 - Keerthi Reddy Rajamuri  
 - Ashwitha Reddy Nimmala  
-- Sameer  
-- Purna  
-- Dakshika  
+- Sameer Shaik 
+- PurnaChander Rao Thoom 
+- Dakshika Palanisamy
 
 ---
